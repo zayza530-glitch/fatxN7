@@ -1,0 +1,6 @@
+{
+  "name": "Paper Generator",
+  "description": "An automated academic paper and essay builder powered by Gemini AI, exporting clean, professional formatted .docx files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
